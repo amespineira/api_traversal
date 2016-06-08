@@ -1,6 +1,8 @@
 .movie_poster{
   width: 150px;
   height: 221px;
+  margin: 0 auto;
+  margin-left: 10%;
 }
 
 #container{
@@ -8,5 +10,10 @@
 }
 
 #center_column{
-  
+  width:200px;
+  height:80%;
+  margin: auto;
+}
+#search{
+  margin-left: 20%;
 }
